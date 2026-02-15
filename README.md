@@ -64,3 +64,19 @@ python app.py
 Abra no navegador:
 
 http://127.0.0.1:5000/
+
+👤 Usuários padrão (APENAS PARA TESTE!)
+
+Admin
+
+Username: admin
+
+Senha: admin123
+
+Recepcionista
+
+Username: recep
+
+Senha: senha123
+
+⚠️ Estes usuários são apenas para teste. Não use em produção! Recomenda-se alterar os logins e senhas para uso real.
