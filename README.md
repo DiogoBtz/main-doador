@@ -1,4 +1,4 @@
-Gerenciamento de Doadores - Flask
+🩸 Gerenciamento de Doadores - Flask
 
 
 
@@ -40,3 +40,27 @@ SQLite
 Python 3.x instalado
 
 Instalar dependências com:
+
+pip install Flask Flask-SQLAlchemy Werkzeug
+
+🚀 Como rodar o projeto
+
+Clone este repositório:
+
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
+cd nome-do-repositorio
+
+
+Instale as dependências:
+
+pip install -r requirements.txt
+
+
+Execute o aplicativo:
+
+python app.py
+
+
+Abra no navegador:
+
+http://127.0.0.1:5000/
